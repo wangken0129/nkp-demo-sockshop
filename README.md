@@ -98,9 +98,9 @@ user-68df64db9c-hs7jl           1/1     Running   0          4m39s
 user-db-6df7444fc-6sjd9         1/1     Running   0          4m39s
 ```
 
-## Open Truck Demo Application UI
+## Open sockshop Application UI
 
-1. To determine the public facing endpoint for the truck demo application, execute the following command:
+1. To determine the public facing endpoint for the sockshop frontend application, execute the following command:
 
 ```
 kubectl get svc front-end -n sockshop
