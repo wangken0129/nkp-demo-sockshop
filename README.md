@@ -1,6 +1,6 @@
 # GitOps DKP SockShop demo
 
-This tutorial was designed to roll-out the truck efficiency demo. It is meant to show how easy it is to use DKP.
+This tutorial is based on Waveworks Microservice Demo <https://microservices-demo.github.io/>.
 
 ## Prerequirements
 
