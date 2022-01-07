@@ -80,7 +80,7 @@ watch kubectl get pods -n sockshop
 
 When you see a screen that looks like the following, your application has successfully been deployed:
 ```
-➜  dkp18xdeployment k get pods -n sockshop
+kubectl get pods -n sockshop
 NAME                            READY   STATUS    RESTARTS   AGE
 carts-b4d4ffb5c-t8nxj           1/1     Running   0          4m41s
 carts-db-6c6c68b747-dnrx2       1/1     Running   0          4m41s
