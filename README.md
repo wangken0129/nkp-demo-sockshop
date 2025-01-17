@@ -1,4 +1,4 @@
-# GitOps DKP SockShop demo
+# GitOps NKP SockShop demo
 
 This tutorial is based on Waveworks Microservice Demo <https://microservices-demo.github.io/>.
 
