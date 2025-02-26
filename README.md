@@ -65,7 +65,7 @@ Kommander Projects can be configured with GitOps based Continuous Deployments fo
 3. Fill in the _Create GitOps Source_ fields as shown below:
 
 * ID (name): `sockshop-microservices`
-* Repository URL: `https://github.com/kisahm/dkp-demo-sockshop/`
+* Repository URL: `https://github.com/wangken0129/nkp-demo-sockshop/`
 * Branch/Tag: `master`
 * Path:
 * Primary Git Secret: `None`
